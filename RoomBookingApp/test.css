@@ -1,0 +1,31 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background: #004882;
+}
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+}
+
+.box{
+    top: 50%;
+    left: 50%;
+}
+
+.box select{
+    background: #0563af;
+    color: #fff;
+    padding: 10px;
+    width: 250px;
+    height: 50px;
+    border: none;
+    font-size: 20px;
+    box-shadow: 0 5px 25px rgba(0,0,0,.5);
+    -webkit-appearance: button;
+    outline: none;
+}
+
